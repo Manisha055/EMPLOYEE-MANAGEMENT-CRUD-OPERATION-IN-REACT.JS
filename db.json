@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "IMessage-Clone",
+      "username": "Success",
+      "email": "M@gmail.com",
+      "phone": "9967546016",
+      "website": "Yahoo",
+      "id": 1
+    },
+    {
+      "name": "Face Detection",
+      "username": "Complete",
+      "email": "aa@data.com",
+      "phone": "9967546014",
+      "website": "Google",
+      "id": 2
+    },
+    {
+      "name": "Youtube-clone",
+      "username": "Complete",
+      "email": "kiran@gmail.com",
+      "phone": "9967546674",
+      "website": "yahoo",
+      "id": 3
+    }
+  ]
+}
